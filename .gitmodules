@@ -1,0 +1,3 @@
+[submodule "themes/BAPC21-theme"]
+	path = themes/BAPC21-theme
+	url = git@github.com:StudieverenigingSTORM/BAPC21-theme.git

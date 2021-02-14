@@ -1,0 +1,5 @@
+baseURL = "https://bapc21.storm.vu/"
+languageCode = "en-us"
+title = "BAPC21 Vrije Universiteit Amsterdam"
+theme = "BAPC21-theme"
+
