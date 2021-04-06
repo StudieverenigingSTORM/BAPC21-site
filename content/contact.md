@@ -24,9 +24,11 @@ Within the Vrije Universiteit, the BAPC committee of [study association STORM](h
 - Claudia Grigoras
 - Jeroen Heijstek
 - Alex Jang
+- Lieve Jilesen
 - Sofia Konovalova
 - Mylène Martodihardjo
 - Shane Minnema
 - William Mooijer
+- Margaux Van Geem
 - Michael Vasseur
 - Youri van der Zwart
