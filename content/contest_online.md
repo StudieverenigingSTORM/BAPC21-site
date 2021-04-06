@@ -6,4 +6,4 @@ weight: 3
 
 # Contest Online
 
-Due to COVID-19 measures, we don't know this yet. We are working on both plans ([on-site](../contest_offline) and [online](../contest_online)) and will inform you as soon as possible.
+Due to COVID-19 measures, we don't know this yet. We are working on both plans ([on-site](../contest_offline) and [online](../contest_online)) and will inform you as soon as possible. Possible ideas have been pitched in April to the other institutions.
