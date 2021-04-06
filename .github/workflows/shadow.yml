@@ -19,7 +19,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo -b https://studieverenigingstorm.github.io/BAPC21-site/ --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
