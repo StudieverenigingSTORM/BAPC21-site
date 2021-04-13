@@ -6,4 +6,4 @@ The Benelux Algorithm Programming Contest (BAPC) is a contest in which teams fro
 
 The teams that have solved the most puzzles at the end of the contest qualify for the [Northwestern European Regional Contest (NWERC)](https://www.nwerc.eu). In this regional competition the teams can qualify themselves for a ticket to the [International Collegiate Programming Contest (ICPC)](https://icpc.global), also known as the World Finals.
 
-The [Vrije Universiteit Amsterdam](https://www.vu.nl/) hosts the BAPC 2021, organised by a committee of [study association STORM](https://storm.vu).
+The [Vrije Universiteit Amsterdam](https://www.vu.nl/) hosts the BAPC 2021, organized by a committee of [study association STORM](https://storm.vu).
