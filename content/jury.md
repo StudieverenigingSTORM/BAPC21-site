@@ -1,5 +1,5 @@
 ---
-title: "Jury/CfP"
+title: "Jury"
 date: 2019-04-30T23:41:52+02:00
 weight: 1
 ---
