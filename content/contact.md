@@ -6,15 +6,11 @@ weight: 5
 
 # Contact
 
-If you have any questions or want to the contact the 2021 BAPC committee, please drop us an email at: organization “at” BAPC “dot” EU (not active yet).
+If you have any questions or want to the contact the BAPC 2021 committee, please drop us an email at: organization “at” BAPC “dot” EU (not active yet).
 
 ## Sponsoring
 
-Companies interested in supporting the contest or participating as a company team, can email us at: Claudia “at” STORM “dot” VU.
-
-## Jury
-
-The [Call for Problems](../jury) is open for both problems and jury members. For questions see the information at the [Jury site](https://jury.bapc.eu).
+Companies interested in supporting the contest or participating as a company team, can email us at: claudia “at” STORM “dot” VU.
 
 ## Organization
 
