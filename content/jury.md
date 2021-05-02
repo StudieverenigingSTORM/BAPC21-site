@@ -10,6 +10,7 @@ The call for problems for BAPC 2021 has ended.
 
 The BAPC 2021 jury consists of, in alphabetical order,
 
+- Erik Baalhuis
 - Ruben Brokkelkamp
 - Ragnar Groot Koerkamp
 - Joey Haas
