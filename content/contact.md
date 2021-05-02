@@ -10,7 +10,7 @@ If you have any questions or want to the contact the BAPC 2021 committee, please
 
 ## Sponsoring
 
-Companies interested in supporting the contest or participating as a company team, can email us at: claudia “at” STORM “dot” VU.
+Companies interested in supporting the contest or participating as a company team, can email us at: Claudia “at” STORM “dot” VU.
 
 ## Organization
 
