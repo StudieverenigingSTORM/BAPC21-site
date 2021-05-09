@@ -18,7 +18,6 @@ Within the Vrije Universiteit, the BAPC committee of [study association STORM](h
 
 - Erik Baalhuis
 - Claudia Grigoras
-- Jeroen Heijstek
 - Alex Jang
 - Lieve Jilesen
 - Sofia Konovalova
