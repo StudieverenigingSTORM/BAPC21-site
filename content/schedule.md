@@ -8,9 +8,10 @@ weight: 1
 
 The schedule of the day itself is still uncertain. The schedule of this year looks something like this:
 
-- Month 04, discussion with other associations on when the preliminaries can be held (organized by individual universities).
-- Month 06, possibly preliminaries
-- Month 09, the preliminaries
-- Month 10, BAPC21
+| Month     | Action                                                    |
+| --------- | --------------------------------------------------------- |
+| June      | Announcement date of the BAPC preliminaries               |
+| September | BAPC preliminaries (organized by individual universities) |
+| October   | BAPC 2021                                                 |
 
 This planning is subject to change as the Benelux still faces problems with COVID-19.
