@@ -7,3 +7,19 @@ The Benelux Algorithm Programming Contest (BAPC) is a contest in which teams fro
 The teams that have solved the most puzzles at the end of the contest qualify for the [Northwestern European Regional Contest (NWERC)](https://www.nwerc.eu). In this regional competition the teams can qualify themselves for a ticket to the [International Collegiate Programming Contest (ICPC)](https://icpc.global), also known as the World Finals.
 
 The BAPC 2021 is hosted by [Vrije Universiteit Amsterdam](https://www.vu.nl/), and organized by a committee of [study association STORM](https://storm.vu).
+
+## Previous contests
+
+| Year | Organizer                                                                                             |
+| ---- | ----------------------------------------------------------------------------------------------------- |
+| 2020 | [Delft University of Technology](https://2020.bapc.eu) (online edition)                               |
+| 2019 | [Radboud University Nijmegen](https://2019.bapc.eu)                                                   |
+| 2018 | [Université catholique de Louvain](https://2018.bapc.eu)                                              |
+| 2017 | [University of Amsterdam](https://2017.bapc.eu)                                                       |
+| 2016 | [Delft University of Technology](https://2016.bapc.eu/en/)                                            |
+| 2015 | [Leiden University](https://2015.bapc.eu)                                                             |
+| 2014 | [Eindhoven University of Technology](https://web.archive.org/web/20210228085120/http://2014.bapc.eu/) |
+| 2013 | [Utrecht University](http://2013.bapc.eu)                                                             |
+| 2012 | [Utrecht University](http://2012.bapc.eu)                                                             |
+| 2011 | [Eindhoven University of Technology](https://web.archive.org/web/20210126050525/http://2011.bapc.eu/) |
+| 2010 | [Leiden University](http://2010.bapc.eu)                                                              |
