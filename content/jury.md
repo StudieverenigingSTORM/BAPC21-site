@@ -6,7 +6,7 @@ weight: 1
 
 # Jury
 
-The Call for Problems for BAPC 2021 has ended.
+The [Call for Problems for BAPC 2021](https://jury.bapc.eu) has ended.
 
 The BAPC 2021 jury consists of, in alphabetical order,
 
