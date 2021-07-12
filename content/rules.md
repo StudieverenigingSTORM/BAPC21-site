@@ -23,6 +23,10 @@ These rules and the chosen format may change depending on the measures for the C
 - Participant: Member of a participating team that competes in the BAPC.
 - Institution: A university or university of applied sciences in Belgium, Luxembourg, or The Netherlands.
 
+### Photos and videos
+
+There may be a public livestream of the award ceremony available on the website. The recording will be made publicly available afterwards. If you do not want to appear on this livestream, or want to be removed from the footage afterwards, please contact the organization. The organization can decide to deny this request.
+
 ## Special Rules
 
 - A team may be disqualified by the organization or jury for any activity that jeopardizes the contest, such as dislodging extension cords, unauthorized modification, unintended use of contest materials, using forbidden function or library calls, or distracting behavior.
