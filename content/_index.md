@@ -6,7 +6,7 @@ The teams that have solved the most puzzles at the end of the contest qualify fo
 
 The BAPC 2021 is hosted by [Vrije Universiteit Amsterdam](https://www.vu.nl/), and organized by a committee of [study association STORM](https://storm.vu).
 
-# Previous contests
+## Previous contests
 
 | Year | Organizer                                                                                             |
 | ---- | ----------------------------------------------------------------------------------------------------- |
