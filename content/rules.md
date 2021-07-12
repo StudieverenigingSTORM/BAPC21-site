@@ -10,19 +10,6 @@ These rules and the chosen format may change depending on the measures for the C
 
 # General Rules
 
-# Diversity Rules
-
-Each institution is permitted to send two teams by default. An institution can earn additional team slots under the following conditions:
-
-- The institution’s preliminaries consist of at least 30% female participants. In the case where a genuine attempt is made, but the ratio is not achieved, the institution may provide details of their attempt for the BAPC committee to review.
-  - One slot awarded
-- The institution proposes compelling ideas for promoting diversity at the BAPC.
-  - The BAPC organizing committee determines the number of slots on a per-institution basis
-  - The deadline for proposing ideas is one week before the BAPC coach meeting
-  - One slot awarded
-
-Discrimination of any kind will not be tolerated during the contest, and may be grounds for disqualification at the discretion of the Contest Director.
-
 ## Definitions
 
 - BAPC: The Benelux Algorithm Programming Contest 2021. Hosted by the Vrije Universiteit Amsterdam.
@@ -35,6 +22,19 @@ Discrimination of any kind will not be tolerated during the contest, and may be 
 - Crew: Organization, Jury, Technical staff and Runners.
 - Participant: Member of a participating team that competes in the BAPC.
 - Institution: A university or university of applied sciences in Belgium, Luxembourg, or The Netherlands.
+
+# Diversity Rules
+
+Each institution is permitted to send two teams by default. An institution can earn additional team slots under the following conditions:
+
+- The institution’s preliminaries consist of at least 30% female participants. In the case where a genuine attempt is made, but the ratio is not achieved, the institution may provide details of their attempt for the BAPC committee to review.
+  - One slot awarded
+- The institution proposes compelling ideas for promoting diversity at the BAPC.
+  - The BAPC organizing committee determines the number of slots on a per-institution basis
+  - The deadline for proposing ideas is one week before the BAPC coach meeting
+  - One slot awarded
+
+Discrimination of any kind will not be tolerated during the contest, and may be grounds for disqualification at the discretion of the Contest Director.
 
 ## Participation
 
