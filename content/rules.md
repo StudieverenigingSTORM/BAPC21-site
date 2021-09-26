@@ -33,6 +33,7 @@ Each institution is permitted to send two teams by default. An institution can e
   - The BAPC organizing committee determines the number of slots on a per-institution basis
   - The deadline for proposing ideas is one week before the BAPC coach meeting
   - One slot awarded
+- Further slot allocation is discussed in section *general slot* allocation
 
 Discrimination of any kind will not be tolerated during the contest, and may be grounds for disqualification at the discretion of the Contest Director.
 
@@ -68,7 +69,19 @@ A business team:
 - Participates in the business teams pool for the title "Winner of the Benelux Algorithm Programming Contest 2021".
 - Diversity rules do not apply.
 
-## Photos and videos
+## General slot allocation
+
+The organization has space for a certain number of teams. Allocation of slots is done following these rules:
+
+- Slots which were not allocated via section *Diversity rules* will be allocated over the institutions based on the following criteria:
+  - Two slots per university (always)
+  - Up to two slots via diversity rules
+  - For each university sorted by diversity ratio:
+    - invite up to four teams that solved the same number of problems as the universities worst invited team via earlier rules. *This is to keep competition available inside the university.*
+  - Invite teams sorted by performance on the preliminaries compared to all Benelux teams.
+  - Willingness/Availability
+
+### Photos and videos
 
 There may be a public livestream of the award ceremony available on the website. The recording will be made publicly available afterwards. If you do not want to appear on this livestream, or want to be removed from the footage afterwards, please contact the organization. The organization can decide to deny this request.
 
