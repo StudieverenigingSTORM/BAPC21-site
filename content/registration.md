@@ -18,14 +18,17 @@ Registration for a preliminary at your institution is independent of a registrat
 
 The Netherlands
 
-- Radboud Universiteit
-- Rijksuniversiteit Groningen (16 October)
-- Technische Universiteit Delft
-- Universiteit van Amsterdam
-- Universiteit van Twente
-- Universiteit van Utrecht
-- Vrije Universiteit Amsterdam
+- Radboud Universiteit (NAPC)
+- Rijksuniversiteit Groningen (RUG Prelim for BAPC21 - 16 October)
+- Technische Universiteit Delft (DAPC)
+- Technische Universiteit Eindhoven (EAPC)
+- Universiteit van Amsterdam (APC)
+- Universiteit Leiden (LKP)
+- Universiteit van Twente (TAPC)
+- Universiteit van Utrecht (UKP)
+- Vrije Universiteit Amsterdam (AAPP)
 
 Belgium
 
-- Université de Mons (16 October)
+- Ghent University (Ugent's preliminaries ICPC)
+- Université de Mons (BAPC Preliminaries at UMONS - 16 October)
