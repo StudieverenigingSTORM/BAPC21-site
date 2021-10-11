@@ -7,7 +7,8 @@ weight: 15
 # Community sponsors
 
 - We thank Thijs at SURF for providing DNS help with the bapc.eu.
-- We use [DOMjudge](domjudge.org)
+- We use [DOMjudge](https://domjudge.org)
+- We use [ICPC-Tools](https://tools.icpc.global/)
 
 # Creative commons:
 
