@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2019-04-30T23:41:52+02:00
-weight: 5
+weight: 20
 ---
 
 # Contact
