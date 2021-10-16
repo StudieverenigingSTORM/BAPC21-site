@@ -6,7 +6,7 @@ weight: 2
 
 # Registration
 
-The registration will open after the preliminaries have taken place. 
+The registration has now closed. Teams will be informed of whether they have been accepted and any relevant information will be sent to the accepted teams at a later date.
 
 ## Preliminaries
 
