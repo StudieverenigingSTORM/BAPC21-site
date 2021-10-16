@@ -1,9 +1,11 @@
 ---
-title: "Contest"
+title: "Location"
 date: 2019-04-30T23:41:52+02:00
 weight: 3
 ---
 
-# Contest
+# Location
 
-Due to COVID-19 measures, it's unclear whether we will be able to hold an on-site contest at the VU Amsterdam campus. We are working on both on-site and online contests and will inform you as soon as possible. Ideas have been pitched in April to the other institutions.
+The contest will be held on the VU Amsterdam campus. For information on how to reach the campus, please visit the [route description](https://vu.nl/en/about-vu/more-about/route-description). 
+
+{{< maps >}}

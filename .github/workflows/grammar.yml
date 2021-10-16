@@ -52,6 +52,8 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
+      - name: Remove problematic lines
+        run: grep -v "{{< maps >}}" content/contest.md > tmp && mv tmp content/contest.md; echo "end" >> content/contest.md
       - name: Check markdown
         run: docker run -v $(pwd):/app --workdir=/app coala/base coala --ci --files content/*.md --bears=MarkdownBear
         
