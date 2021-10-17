@@ -105,13 +105,8 @@ There may be a public livestream of the award ceremony available on the website.
 - A team is disqualified if they submit harmful code that disrupts the contest.
 - A submission can use the standard library of the language.
 - A list of usable libraries are provided by the organization before the contest.
-- On-site contest
-  - Each team will use at most one workstation.
-  - There is an explicit restriction on internet access during the contest. Interaction about problems is allowed via clarification requests with the jury and internal discussion within the team. Asking questions about the contest to crew or coaches is subject to disqualification.
-- Online contest
-  - Each team will use at most three workstations (i.e. at most one computer per team member).
-  - There is no explicit restriction on internet access during the contest. The organization discourages copying code from reference material, as solutions will be checked on similarities. If there is suspicion of plagiarism among teams, both teams are subject to disqualification.
-  - Interaction about problems is allowed from clarification requests with the jury and internal discussion within the team. Posing questions to a third-party, such as Stack Overflow or another team, is prohibited. The same applies to general programming errors.
+- Each team will use at most one workstation.
+- There is an explicit restriction on internet access during the contest. Interaction about problems is allowed via clarification requests with the jury and internal discussion within the team. Asking questions about the contest to crew or coaches is subject to disqualification.
 
 ### Judgment
 
