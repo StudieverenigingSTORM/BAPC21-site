@@ -92,6 +92,10 @@ There may be a public livestream of the award ceremony available on the website.
 - The language of the contest is English. All written contest materials will be in English.
 - The contest lasts for 5 hours.
 - From the beginning until one hour before the end of the BAPC, the scores are displayed.
+- A team is allowed to bring 3 identical copies of a TCR according to the ICPC rules:
+  - 25 pages, single sided or
+  - 12 pages, double-sided
+  - The pages should be able to be read from a normal reading distance.
 
 ### Problems
 
