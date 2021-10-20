@@ -107,6 +107,10 @@ There may be a public livestream of the award ceremony available on the website.
 - A list of usable libraries are provided by the organization before the contest.
 - Each team will use at most one workstation.
 - There is an explicit restriction on internet access during the contest. Interaction about problems is allowed via clarification requests with the jury and internal discussion within the team. Asking questions about the contest to crew or coaches is subject to disqualification.
+- Teams are allowed to bring a non-programmable keyboard to be swapped out with the keyboard provided by the organization.
+- Teams are not allowed to provide other HCI devices to be swapped out.
+- Teams are not allowed to make any changes to the workstation.
+- Teams will use a desktop computer provided by the organization.
 
 ### Judgment
 
