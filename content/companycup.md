@@ -13,3 +13,5 @@ weight: 13
 ![CWI](/img/sponsors/team_cwi.png)
 ![OrangeMason](/team_OrangeMason.png)
 ![Ortec](/img/sponsors/team_ortec.png)
+![Booking](/team_booking.jpg)
+![BetterBe](/team_betterbe.svg)
