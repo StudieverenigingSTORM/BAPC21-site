@@ -13,7 +13,7 @@ weight: 1
 | 11:00 | 12:00 | Test session                           |
 | 12:00 | 13:00 | Lunch, sponsor meetup, last remarks    |
 | 13:00 | 18:00 | Contest                                |
-| TBA   | TBA | Coaches meeting                        |
-| 18:00 | | Drinks                                 |
+| TBA   | TBA   | Coaches meeting                        |
+| 18:00 |       | Drinks                                 |
 | 18:00 | 19:30 | Jury solutions                         |
 | 19:30 | 21:00 | Award ceremony                         |
