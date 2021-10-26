@@ -96,7 +96,7 @@ There may be a public livestream of the award ceremony available on the website.
   - 25 pages, single sided or
   - 12 pages, double-sided
   - The pages should be able to be read from a normal reading distance.
-- A team is allowed a dictionary from English to their native language. The dictionary should have no notes written in them or in anyway can be considered an extension to the TCR.
+- A team is allowed a dictionary from English to their native language. The dictionary should have no notes written in them or in any way can be considered an extension to the TCR.
 
 ### Problems
 
