@@ -136,3 +136,61 @@ There may be a public livestream of the award ceremony available on the website.
 - The organization has the right to stop the contest, extend the contest time, temporarily block submissions for all teams, or change the scores in exceptional conditions.
 - In situations to which no rule applies, or there is ambiguity about the rules, the organization decides the outcome.
 - If necessary, the organization can make changes and exceptions to these rules.
+
+
+
+## Contest machine
+Your contest machines are based on Ubuntu 20.04.3 (LTS) and contain the following compilers, editors, tooling and aliases. A virtual machine of the contest image can be found [here](https://github.com/StudieverenigingSTORM/BAPC21-client-issues).
+
+#### Languages and compilers
+The following languages and compilers are available, note not all languages are accepted as submit languages.
+- C: gcc 9.3.0
+- C++: g++ 9.3.0
+- Java: javac 11.0.11 (openjdk)
+- Python: Python 3.7.12 (pypy3 7.3.9, gcc 9.3.0)
+- C#: Mono 6.8.0.105
+- Kotlin: Kotlinc 1.4.21
+
+#### Editors and IDEs
+The following list of editors/IDEs are available for you to use
+- Sublime text Build 4113
+- Geany v3.23.20
+- Kate 19.12.3
+- vim 8.1 with patches 1-2269
+- emacs 26.3
+- kwrite 19.12.23
+- vsCode 1.61.2, with the following plugins:
+  - ms-python.vscode-pylance v2021.10.1
+  - ms-python.python v2021.10.1336267007
+  - ms-vscode.cpptools v1.7.1
+  - ms-toolsai.jupyter v2021.9.1101343141
+  - ms-toolsai.jupyter-keymap v1.0.0
+  - ms-toolsai.jupyter-renderers v1.0.3
+  - redhat.java v1.0.0
+  - coenraads.bracket-pair-colorizer v1.0.61
+- codeblocks 20.03
+- kdevelop 5.5.0
+- CLion 2020.3
+- Intellij Community Edition 2021.2.3
+- PyCharm Community Edition 2021.2.3
+
+#### Tools
+The following tools are available:
+- git 2.25.1
+- valgrind 3.15.0
+- gdb 10.2
+
+#### Aliasses
+The following aliases are available for your convenience. The following list of aliases help to compile your programs.
+Since similar compiler flags are used by DOMjudge using these aliases ensures compiling is done the same locally as on DOMjudge.
+
+- `my_gcc='gcc -g -O2 -std=gnu11 -static ${files} -lm'`
+- `my_g++='g++ -g -O2 -std=gnu++2a -static ${files}'`
+- `my_javac='javac -encoding UTF-8 -sourcepath . -d . ${files}'`
+- `my_kotlinc='kotlinc -d . ${files}'`
+
+The following aliases help to run your compiled programs. The `run_java` and `run_kotlin` aliases on your machines actually refer to shell scripts. The only difference between the shell scripts and the listed aliases is that the commands are actually run by `taskset -c 0 <COMMAND>`. This ensures your program is pinned to single processor core (core #0). As is the case when your programs are run on DOMjudge.
+
+- `run_java='java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss64m -Xms1920m -Xmx1920m $1`
+- `run_kotlin='kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss64m -J-Xms1920m -J-Xmx1920m $1'`
+- `run_python='pypy3 ${files}'`
