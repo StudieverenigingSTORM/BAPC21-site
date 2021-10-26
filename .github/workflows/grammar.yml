@@ -28,8 +28,16 @@ jobs:
           name: HTMLout
           path: temp
        # The actual check
+      - name: Remove problematic lines
+        run: grep -v "my_" content/rules.md > tmp && mv tmp content/rules.md
+      - name: Remove problematic lines
+        run: grep -v "run_" content/rules.md > tmp && mv tmp content/rules.md
+      - name: Remove problematic lines
+        run: grep -v "coenraads" content/rules.md > tmp && mv tmp content/rules.md
+      - name: Remove problematic lines
+        run: grep -v "redhat.java" content/rules.md > tmp && mv tmp content/rules.md
       - name: Check document
-        run: for file in `ls content`; do textidote --dict text.dict --ignore lt:en:CD_NN,lt:en:EN_QUOTES,lt:en:PUNCTUATION_PARAGRAPH_END --check en --type md content/$file; done
+        run: for file in `ls content`; do textidote --dict text.dict --ignore lt:en:WORD_CONTAINS_UNDERSCORE,lt:en:SENTENCE_FRAGMENT,lt:en:CD_NN,lt:en:EN_QUOTES,lt:en:PUNCTUATION_PARAGRAPH_END --check en --type md content/$file; done
   mdspell:
     runs-on: ubuntu-20.04
     steps:
@@ -46,6 +54,8 @@ jobs:
         run: npm install write-good
       - name: Remove problematic lines
         run: grep -v "An institution can earn additional team slots under the following conditions:" content/rules.md > tmp && mv tmp content/rules.md
+      - name: Remove problematic lines
+        run: grep -v "with the last page only printed" content/rules.md > tmp && mv tmp content/rules.md
       - name: Check with Write-good
         run: ./node_modules/.bin/write-good content/*.md --no-passive
   markdown:

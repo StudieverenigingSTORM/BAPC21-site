@@ -3,6 +3,16 @@
 # global dictionary is at the start, file overrides afterwards
 # one word per line, to define a file override use ' - filename'
 # where filename is relative to this configuration file
+run_java
+run_kotlin
+redhat.java
+redhat.
+taskset
+IDEs
+TCR
+C99
+HCI
+DNS
 De Boelelaan
 Boelelaan
 HV
@@ -103,3 +113,38 @@ Ugent
 UMONS
 EAPC
 meetup
+gcc
+javac
+openjdk
+pypy3
+kotlinc
+Geany
+LTS
+emacs
+kwrite
+vsCode
+v3.23.20
+vscode-pylance
+v2021.10.1
+v2021.10.1336267007
+ms-vscode
+cpptools
+v1.7.1
+ms-toolsai
+jupyter
+v2021.9.1101343141
+jupyter-keymap
+v1.0.0
+jupyter-renderers
+v1.0.3
+redhat.java
+coenraads.bracket
+pair-colorizer
+v1.0.61
+codeblocks
+kdevelop
+CLion
+Intellij
+PyCharm
+valgrind
+gdb
