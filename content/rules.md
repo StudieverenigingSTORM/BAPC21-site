@@ -94,7 +94,7 @@ There may be a public livestream of the award ceremony available on the website.
 - From the beginning until one hour before the end of the BAPC, the scores are displayed.
 - A team is allowed to bring 3 identical copies of a TCR according to the ICPC rules:
   - 25 pages, single sided or
-  - 12 pages, double-sided
+  - 13 pages, double-sided, with the last page only printed on one side
   - The pages should be able to be read from a normal reading distance.
 - A team is allowed a dictionary from English to their native language. The dictionary should have no notes written in them or in any way can be considered an extension to the TCR.
 
