@@ -20,7 +20,7 @@ General Rules Definitions  BAPC: The Benelux Algorithm Programming Contest 2021.
 <meta itemprop=description content="Rules These rules and the chosen format may change depending on the measures for the COVID-19 pandemic.
 General Rules Definitions  BAPC: The Benelux Algorithm Programming Contest 2021. Hosted by the Vrije Universiteit Amsterdam. Organization: The members of the organizing committee. Website: The website, maintained by the organization and available at 2021.bapc.eu. Slack: The BAPC Slack workspace mentioned in Contact. Jury: The group responsible for creating the problem set and checking the solutions submitted by the participants."><meta itemprop=datePublished content="2019-04-30T23:41:52+02:00">
 <meta itemprop=dateModified content="2019-04-30T23:41:52+02:00">
-<meta itemprop=wordCount content="1422">
+<meta itemprop=wordCount content="1723">
 <meta itemprop=keywords content><meta name=twitter:card content="summary">
 <meta name=twitter:title content="Rules">
 <meta name=twitter:description content="Rules These rules and the chosen format may change depending on the measures for the COVID-19 pandemic.
@@ -206,6 +206,67 @@ General Rules Definitions  BAPC: The Benelux Algorithm Programming Contest 2021.
 <li>The organization has the right to stop the contest, extend the contest time, temporarily block submissions for all teams, or change the scores in exceptional conditions.</li>
 <li>In situations to which no rule applies, or there is ambiguity about the rules, the organization decides the outcome.</li>
 <li>If necessary, the organization can make changes and exceptions to these rules.</li>
+</ul>
+<h2 id=contest-machine>Contest machine</h2>
+<p>Your contest machines are based on Ubuntu 20.04.3 (LTS) and contain the following compilers, editors, tooling and aliases. A virtual machine of the contest image can be found <a href=https://github.com/StudieverenigingSTORM/BAPC21-client-issues target=_blank>here</a>.</p>
+<h4 id=languages-and-compilers>Languages and compilers</h4>
+<p>The following languages and compilers are available, note not all languages are accepted as submit languages.</p>
+<ul>
+<li>C: gcc 9.3.0</li>
+<li>C++: g++ 9.3.0</li>
+<li>Java: javac 11.0.11 (openjdk)</li>
+<li>Python: Python 3.7.12 (pypy3 7.3.9, gcc 9.3.0)</li>
+<li>C#: Mono 6.8.0.105</li>
+<li>Kotlin: Kotlinc 1.4.21</li>
+</ul>
+<h4 id=editors-and-ides>Editors and IDEs</h4>
+<p>The following list of editors/IDEs are available for you to use</p>
+<ul>
+<li>Sublime text Build 4113</li>
+<li>Geany v3.23.20</li>
+<li>Kate 19.12.3</li>
+<li>vim 8.1 with patches 1-2269</li>
+<li>emacs 26.3</li>
+<li>kwrite 19.12.23</li>
+<li>vsCode 1.61.2, with the following plugins:
+<ul>
+<li>ms-python.vscode-pylance v2021.10.1</li>
+<li>ms-python.python v2021.10.1336267007</li>
+<li>ms-vscode.cpptools v1.7.1</li>
+<li>ms-toolsai.jupyter v2021.9.1101343141</li>
+<li>ms-toolsai.jupyter-keymap v1.0.0</li>
+<li>ms-toolsai.jupyter-renderers v1.0.3</li>
+<li>redhat.java v1.0.0</li>
+<li>coenraads.bracket-pair-colorizer v1.0.61</li>
+</ul>
+</li>
+<li>codeblocks 20.03</li>
+<li>kdevelop 5.5.0</li>
+<li>CLion 2020.3</li>
+<li>Intellij Community Edition 2021.2.3</li>
+<li>PyCharm Community Edition 2021.2.3</li>
+</ul>
+<h4 id=tools>Tools</h4>
+<p>The following tools are available:</p>
+<ul>
+<li>git 2.25.1</li>
+<li>valgrind 3.15.0</li>
+<li>gdb 10.2</li>
+</ul>
+<h4 id=aliasses>Aliasses</h4>
+<p>The following aliases are available for your convenience. The following list of aliases help to compile your programs.
+Since similar compiler flags are used by DOMjudge using these aliases ensures compiling is done the same locally as on DOMjudge.</p>
+<ul>
+<li><code>my_gcc='gcc -g -O2 -std=gnu11 -static ${files} -lm'</code></li>
+<li><code>my_g++='g++ -g -O2 -std=gnu++2a -static ${files}'</code></li>
+<li><code>my_javac='javac -encoding UTF-8 -sourcepath . -d . ${files}'</code></li>
+<li><code>my_kotlinc='kotlinc -d . ${files}'</code></li>
+</ul>
+<p>The following aliases help to run your compiled programs. The <code>run_java</code> and <code>run_kotlin</code> aliases on your machines actually refer to shell scripts. The only difference between the shell scripts and the listed aliases is that the commands are actually run by <code>taskset -c 0 &lt;COMMAND></code>. This ensures your program is pinned to single processor core (core #0). As is the case when your programs are run on DOMjudge.</p>
+<ul>
+<li><code>run_java='java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss64m -Xms1920m -Xmx1920m $1</code></li>
+<li><code>run_kotlin='kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss64m -J-Xms1920m -J-Xmx1920m $1'</code></li>
+<li><code>run_python='pypy3 ${files}'</code></li>
 </ul>
 </div>
 </div>
