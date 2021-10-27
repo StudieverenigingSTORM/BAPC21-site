@@ -20,7 +20,7 @@ General Rules Definitions  BAPC: The Benelux Algorithm Programming Contest 2021.
 <meta itemprop=description content="Rules These rules and the chosen format may change depending on the measures for the COVID-19 pandemic.
 General Rules Definitions  BAPC: The Benelux Algorithm Programming Contest 2021. Hosted by the Vrije Universiteit Amsterdam. Organization: The members of the organizing committee. Website: The website, maintained by the organization and available at 2021.bapc.eu. Slack: The BAPC Slack workspace mentioned in Contact. Jury: The group responsible for creating the problem set and checking the solutions submitted by the participants."><meta itemprop=datePublished content="2019-04-30T23:41:52+02:00">
 <meta itemprop=dateModified content="2019-04-30T23:41:52+02:00">
-<meta itemprop=wordCount content="1722">
+<meta itemprop=wordCount content="1732">
 <meta itemprop=keywords content><meta name=twitter:card content="summary">
 <meta name=twitter:title content="Rules">
 <meta name=twitter:description content="Rules These rules and the chosen format may change depending on the measures for the COVID-19 pandemic.
@@ -159,7 +159,7 @@ General Rules Definitions  BAPC: The Benelux Algorithm Programming Contest 2021.
 <li>A team is allowed to bring 3 identical copies of a TCR according to the ICPC rules:
 <ul>
 <li>25 pages, single sided or</li>
-<li>12 pages, double-sided</li>
+<li>13 pages, double-sided, with the last page only printed on one side</li>
 <li>The pages should be able to be read from a normal reading distance.</li>
 </ul>
 </li>
@@ -253,7 +253,7 @@ General Rules Definitions  BAPC: The Benelux Algorithm Programming Contest 2021.
 <li>valgrind 3.15.0</li>
 <li>gdb 10.2</li>
 </ul>
-<h4 id=aliases>Aliases</h4>
+<h4 id=aliasses>Aliasses</h4>
 <p>The following aliases are available for your convenience. The following list of aliases help to compile your programs.
 Since similar compiler flags are used by DOMjudge using these aliases ensures compiling is done the same locally as on DOMjudge.</p>
 <ul>
@@ -262,7 +262,7 @@ Since similar compiler flags are used by DOMjudge using these aliases ensures co
 <li><code>my_javac='javac -encoding UTF-8 -sourcepath . -d . ${files}'</code></li>
 <li><code>my_kotlinc='kotlinc -d . ${files}'</code></li>
 </ul>
-<p>The following aliases help to run your compiled programs. The <code>run_java</code> and <code>run_kotlin</code> aliases on your machines actually refer to shell scripts. The difference between the shell scripts and the listed aliases is that the commands are actually run by <code>taskset -c 0 &lt;COMMAND></code>. This ensures your program is pinned to single processor core (core #0). As is the case when your programs are run on DOMjudge.</p>
+<p>The following aliases help to run your compiled programs. The <code>run_java</code> and <code>run_kotlin</code> aliases on your machines actually refer to shell scripts. The only difference between the shell scripts and the listed aliases is that the commands are actually run by <code>taskset -c 0 &lt;COMMAND></code>. This ensures your program is pinned to single processor core (core #0). As is the case when your programs are run on DOMjudge.</p>
 <ul>
 <li><code>run_java='java -Dfile.encoding=UTF-8 -XX:+UseSerialGC -Xss64m -Xms1920m -Xmx1920m $1</code></li>
 <li><code>run_kotlin='kotlin -Dfile.encoding=UTF-8 -J-XX:+UseSerialGC -J-Xss64m -J-Xms1920m -J-Xmx1920m $1'</code></li>
