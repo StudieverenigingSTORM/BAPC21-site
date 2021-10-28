@@ -3,6 +3,9 @@
 # global dictionary is at the start, file overrides afterwards
 # one word per line, to define a file override use ' - filename'
 # where filename is relative to this configuration file
+Nieuwe Universiteitgebouw
+NU
+TenT
 run_java
 run_kotlin
 redhat.java
