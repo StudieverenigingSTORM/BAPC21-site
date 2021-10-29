@@ -141,6 +141,8 @@ There may be a public livestream of the award ceremony available on the website.
 
 Your contest machines are based on Ubuntu 20.04.3 (LTS) and contain the following compilers, editors, tooling and aliases. A virtual machine of the contest image can be found [here](https://github.com/StudieverenigingSTORM/BAPC21-client-issues).
 
+All contest machines are equal, have a single monitor, and are equipped with a (non-ergonomic) 104-key qwerty keyboard and mouse.
+
 #### Languages and compilers
 
 The following languages and compilers are available, note not all languages are accepted as submit languages.
