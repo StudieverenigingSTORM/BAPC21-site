@@ -16,3 +16,9 @@ weight: 15
   - [1011: Baby Names](https://xkcd.com/1011/)
   - [1081: Argument Victory](https://xkcd.com/1081/)
   - [1106: ADD](https://xkcd.com/1106/)
+
+# University
+
+- We thank [Alexandru/A. Iosup](https://research.vu.nl/en/persons/alexandru-iosup)
+
+![AtLarge](/atlarge.png)
