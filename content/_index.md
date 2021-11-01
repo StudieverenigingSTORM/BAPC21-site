@@ -6,7 +6,15 @@ The teams that have solved the most puzzles at the end of the contest qualify fo
 
 The BAPC 2021 is hosted by [Vrije Universiteit Amsterdam](https://www.vu.nl/), and organized by a committee of [study association STORM](https://storm.vu).
 
-There is an online contest on [Kattis](https://bapc21online.kattis.com) 13:00-18:00CET on Sunday October 31st, and problems will remain available on Kattis afterwards.
+## Contest materials
+
+- [BAPC problems](/bapc2021-problems.pdf)
+- [BAPC solutions](/bapc2021-solutions.pdf)
+- [preliminaries problems](/prelims2021-problems.pdf)
+- [preliminaries solutions](/prelims2021-solutions.pdf)
+
+The problems are also available via the
+[Kattis](https://bapc21online.kattis.com) mirror.
 
 ## Previous contests
 
