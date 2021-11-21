@@ -1,3 +1,6 @@
+# News
+The call for problems for BAPC2022 can be found at: https://jury.bapc.eu/.
+
 # About the BAPC
 
 The Benelux Algorithm Programming Contest (BAPC) is a contest in which teams from leading universities in Belgium, the Netherlands, and Luxembourg are served a series of algorithmic problems/puzzles. The goal of each team is to solve the most puzzles as possible within the set time limit. Solutions need to be programmed out on a computer and can be submitted to a semi-automated judging system, after which the solution is checked.
