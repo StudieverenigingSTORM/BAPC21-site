@@ -8,4 +8,4 @@ weight: 2
 
 Pictures will be available soon. We're currently in the process of the after effects.
 
-The current planning is next week.
+The current planning is to first handle the last logistics for sending the last items to teams after this the photo's will be uploaded.
