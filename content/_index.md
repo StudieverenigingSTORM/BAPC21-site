@@ -20,8 +20,7 @@ The BAPC 2021 is hosted by [Vrije Universiteit Amsterdam](https://www.vu.nl/), a
 - [BAPC2021 Scoreboard](/BAPC21.html)
 - [BAPC2021 (Prelims) Scoreboard](/Prelim21.html)
 
-The problems are also available via the
-[Kattis](https://bapc21online.kattis.com) mirror.
+The problems are also available via the [Kattis](https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%202021) mirror.
 
 ## Previous contests
 
