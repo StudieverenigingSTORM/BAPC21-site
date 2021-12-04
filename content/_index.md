@@ -1,5 +1,5 @@
 # News
-The call for problems for BAPC2022 can be found at: https://jury.bapc.eu/.
+The call for problems for BAPC 2022 can be found at: https://jury.bapc.eu/.
 
 # About the BAPC
 
