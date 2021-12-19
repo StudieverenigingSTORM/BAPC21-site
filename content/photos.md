@@ -6,6 +6,13 @@ weight: 2
 
 # Photos
 
-Pictures will be available soon. We're currently in the process of the after effects.
+The photos taken by Clint Nieuwendijk and Joey van Haas:
 
-The current planning is to first handle the last logistics for sending the last items to teams after this the photo's will be uploaded.
+## Award ceremony
+{{< gallery dir="photos/awards" caption-position="none" />}} {{< load-photoswipe >}}
+
+## Teams
+{{< gallery dir="photos/teams" caption-position="none" />}} {{< load-photoswipe >}}
+
+## Misc
+{{< gallery dir="photos/teams" caption-position="none" />}} {{< load-photoswipe >}}
