@@ -12,6 +12,9 @@ The photos taken by Clint Nieuwendijk and Joey van Haas:
 {{< gallery dir="photos/awards" caption-position="none" />}} {{< load-photoswipe >}}
 
 ## Teams
+
+BAPC team pictures were shot by Clint Nieuwendijk
+
 {{< gallery dir="photos/teams" caption-position="none" />}} {{< load-photoswipe >}}
 
 ## Misc
