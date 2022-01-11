@@ -18,4 +18,4 @@ BAPC team pictures were shot by Clint Nieuwendijk
 {{< gallery dir="photos/teams" caption-position="none" />}} {{< load-photoswipe >}}
 
 ## Misc
-{{< gallery dir="photos/teams" caption-position="none" />}} {{< load-photoswipe >}}
+{{< gallery dir="photos/misc" caption-position="none" />}} {{< load-photoswipe >}}
