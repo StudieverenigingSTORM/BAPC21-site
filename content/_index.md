@@ -13,10 +13,10 @@ The BAPC 2021 is hosted by [Vrije Universiteit Amsterdam](https://www.vu.nl/), a
 
 - [BAPC problems](/bapc2021-problems.pdf)
 - [BAPC solutions](/bapc2021-solutions.pdf)
-- [BAPC testdata and solutions (162MB)](https://commissies.ch.tudelft.nl/chipcie/archief/2021/bapc/solutions.zip)
+- [BAPC testdata and solutions](/bapc2021-solutions.zip)
 - [preliminaries problems](/prelims2021-problems.pdf)
 - [preliminaries solutions](/prelims2021-solutions.pdf)
-- [preliminaries testdata and solutions (70MB)](https://commissies.ch.tudelft.nl/chipcie/archief/2021/dapc/solutions.zip)
+- [preliminaries testdata and solutions](prelims2021-solutions.zip)
 - [BAPC2021 Scoreboard](/BAPC21.html)
 - [BAPC2021 (Prelims) Scoreboard](/Prelim21.html)
 
