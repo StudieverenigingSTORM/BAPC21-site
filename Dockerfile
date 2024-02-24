@@ -1,6 +1,5 @@
 
-
-FROM alpine:latest
+FROM alpine:latest AS build
 
 ARG HUGO_VERSION=0.68.3
 
@@ -15,8 +14,13 @@ RUN wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hug
 WORKDIR /usr/src/app
 COPY . .
 RUN git submodule init && git submodule update --remote --merge
-RUN mkdir -m 777 /usr/src/app/resources
+RUN /opt/hugo
 
-EXPOSE 1313
-CMD [ "/opt/hugo", "server", "--bind=0.0.0.0" ]
+FROM nginx:mainline
+
+WORKDIR /usr/share/nginx/html
+
+COPY --from=build /usr/src/app/public .
+
+EXPOSE 80
 
