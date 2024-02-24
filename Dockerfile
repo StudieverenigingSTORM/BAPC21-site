@@ -15,6 +15,7 @@ RUN wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hug
 WORKDIR /usr/src/app
 COPY . .
 RUN git submodule init && git submodule update --remote --merge
+RUN mkdir -m 777 /usr/src/app/resources
 
 EXPOSE 1313
 CMD [ "/opt/hugo", "server", "--bind=0.0.0.0" ]
