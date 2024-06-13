@@ -21,7 +21,6 @@ FROM nginx:mainline
 WORKDIR /usr/share/nginx/html
 
 COPY --from=build /usr/src/app/public .
-COPY ./nginx-default.conf /etc/conf.d/default.conf
 RUN chmod 777 /var/cache/nginx
 
 EXPOSE 80
