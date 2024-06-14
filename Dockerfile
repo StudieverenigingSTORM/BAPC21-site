@@ -13,6 +13,8 @@ RUN wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hug
 
 WORKDIR /usr/src/app
 COPY . .
+RUN wget -P ./static/ https://github.com/StudieverenigingSTORM/BAPC21-site/releases/download/solutions/bapc2021-solutions.zip
+RUN wget -P ./static/ https://github.com/StudieverenigingSTORM/BAPC21-site/releases/download/solutions/prelims2021-solutions.zip
 RUN git submodule init && git submodule update --remote --merge
 RUN /opt/hugo
 
